@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/Temperature"
+        android:title="Temperature"></item>
+    <item
+        android:id="@+id/Password"
+        android:title="Password "></item>
+    <item
+        android:id="@+id/Light"
+        android:title="Light"></item>
+    <item
+        android:id="@+id/Fan"
+        android:title="Fan"></item>
+    <item
+        android:id="@+id/Entry"
+        android:title="Entry Attack"></item>
+    <item
+        android:id="@+id/Message"
+        android:title="Message"></item>
+</menu>

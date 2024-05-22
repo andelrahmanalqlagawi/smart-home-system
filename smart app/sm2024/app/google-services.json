@@ -1,0 +1,69 @@
+{
+  "project_info": {
+    "project_number": "556128580535",
+    "firebase_url": "https://firbaseandroid-f8176-default-rtdb.firebaseio.com",
+    "project_id": "firbaseandroid-f8176",
+    "storage_bucket": "firbaseandroid-f8176.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:556128580535:android:c83a3e0cf4fa78b3feae32",
+        "android_client_info": {
+          "package_name": "com.example.myapplication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "556128580535-vplo2jkm11o59nuedtp7gtv5tk5daqq2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCDA6VDKhwlSVsWaP9q3o9mxpaZ97jBH9U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "556128580535-vplo2jkm11o59nuedtp7gtv5tk5daqq2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:556128580535:android:0730c96779224561feae32",
+        "android_client_info": {
+          "package_name": "com.example.samrthome0"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "556128580535-vplo2jkm11o59nuedtp7gtv5tk5daqq2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCDA6VDKhwlSVsWaP9q3o9mxpaZ97jBH9U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "556128580535-vplo2jkm11o59nuedtp7gtv5tk5daqq2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
